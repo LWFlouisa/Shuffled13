@@ -7,3 +7,6 @@ What a lot of people don't think about with Ciphers is their respective strength
 Which here means if you were to apply the same concept to Polyalphabetic Ciphers, then suddenly you can create access permission levels for different Cipher texts of the same type.
 
 What I'm less sure is if that's a unique thing about substitution ciphers, or if transposition ones can do that as well.
+
+## Note
+THis is not meant for secure communication, but rather as a fan way to teach about permission access controls.
